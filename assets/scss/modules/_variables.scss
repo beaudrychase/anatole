@@ -16,7 +16,7 @@ $success: #51d88a;
 $danger: #ef5753;
 
 $thumbnail-height: 15em;
-$body-max-width: 1920px;
+$body-max-width: 32rem;
 
 $sidebar-ratio: calc(1 - #{$content-ratio});
 $content-max-width: calc(#{$body-max-width} * #{$content-ratio});

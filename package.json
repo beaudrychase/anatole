@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lxndrblz/anatole.git"
+    "url": "git+https://github.com/beaudrychase/anatole.git"
   },
   "keywords": [
     "theme",
@@ -23,9 +23,9 @@
   "author": "Alexander Bilz",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/lxndrblz/anatole/issues"
+    "url": "https://github.com/beaudrychase/anatole/issues"
   },
-  "homepage": "https://github.com/lxndrblz/anatole#readme",
+  "homepage": "https://github.com/beaudrychase/anatole#readme",
   "devDependencies": {
     "@commitlint/cli": "^16.3.0",
     "@commitlint/config-conventional": "^16.2.4",
